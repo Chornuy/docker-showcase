@@ -9,6 +9,15 @@ venv/
 # Icon must end with two \r
 Icon
 
+frontend/coverage
+frontend/build
+frontend/node_modules
+frontend/stats.json
+
+# Cruft
+.DS_Store
+frontend/npm-debug.log
+.idea
 
 # Thumbnails
 ._*
